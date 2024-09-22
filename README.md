@@ -1,0 +1,1 @@
+<p align="center"><a href="https://www.discue.io/" target="_blank" rel="noopener noreferrer"><img width="256" src="https://www.discue.io/icons-fire-no-badge-square/web/icon-512.png" alt="Vue logo"></a></p>
