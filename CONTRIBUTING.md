@@ -178,6 +178,14 @@ By making a contribution to this project, I certify that:
 > 1. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
 > 1. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
+To fulfill this requirement, we ask you to add a `Signed-off-by` line to your commits. When using git you can achieve this by adding the `-s` flag to the `git commit` command. Git will automatically add the line and your configured name and email.
+
+```
+chore(deps): update expressjs
+
+Signed-off-by: John Doe <john.doe@hisdomain.com>
+```
+
 ## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
 
 If you are reading this, bravo dear user and (hopefully) contributor for making it this far! You are awesome. :100: 
